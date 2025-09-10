@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/procfs1/procfs3.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/y000da/develop/kernel/procfs1/procfs3.ko /home/y000da/develop/kernel/procfs1/procfs3.o /home/y000da/develop/kernel/procfs1/procfs3.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/start-stop/startstop.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/y000da/develop/kernel/start-stop/startstop.ko /home/y000da/develop/kernel/start-stop/startstop.o /home/y000da/develop/kernel/start-stop/startstop.mod.o;  true

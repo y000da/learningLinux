@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/start-stop/startstop.mod := printf '%s\n'   start.o stop.o | awk '!x[$$0]++ { print("/home/y000da/develop/kernel/start-stop/"$$0) }' > /home/y000da/develop/kernel/start-stop/startstop.mod

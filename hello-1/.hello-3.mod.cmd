@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/hello-1/hello-3.mod := printf '%s\n'   hello-3.o | awk '!x[$$0]++ { print("/home/y000da/develop/kernel/hello-1/"$$0) }' > /home/y000da/develop/kernel/hello-1/hello-3.mod

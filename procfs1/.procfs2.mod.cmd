@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/procfs1/procfs2.mod := printf '%s\n'   procfs2.o | awk '!x[$$0]++ { print("/home/y000da/develop/kernel/procfs1/"$$0) }' > /home/y000da/develop/kernel/procfs1/procfs2.mod

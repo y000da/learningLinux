@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/chardev/Module.symvers :=  sed 's/ko$$/o/'  /home/y000da/develop/kernel/chardev/modules.order | scripts/mod/modpost -m      -o /home/y000da/develop/kernel/chardev/Module.symvers -e -i Module.symvers -T - 

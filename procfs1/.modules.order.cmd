@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/procfs1/modules.order := {   echo /home/y000da/develop/kernel/procfs1/procfs1.ko;   echo /home/y000da/develop/kernel/procfs1/procfs2.ko;   echo /home/y000da/develop/kernel/procfs1/procfs3.ko;   echo /home/y000da/develop/kernel/procfs1/procfs4.ko; :; } > /home/y000da/develop/kernel/procfs1/modules.order

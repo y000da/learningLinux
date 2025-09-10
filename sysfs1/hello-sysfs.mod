@@ -1,0 +1,1 @@
+/home/y000da/develop/kernel/sysfs1/hello-sysfs.o

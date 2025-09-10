@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/chardev/chardev.mod := printf '%s\n'   chardev.o | awk '!x[$$0]++ { print("/home/y000da/develop/kernel/chardev/"$$0) }' > /home/y000da/develop/kernel/chardev/chardev.mod

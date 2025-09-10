@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/procfs1/procfs4.mod := printf '%s\n'   procfs4.o | awk '!x[$$0]++ { print("/home/y000da/develop/kernel/procfs1/"$$0) }' > /home/y000da/develop/kernel/procfs1/procfs4.mod

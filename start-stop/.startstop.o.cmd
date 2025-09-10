@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/start-stop/startstop.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o /home/y000da/develop/kernel/start-stop/startstop.o @/home/y000da/develop/kernel/start-stop/startstop.mod 

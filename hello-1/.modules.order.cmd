@@ -1,0 +1,1 @@
+cmd_/home/y000da/develop/kernel/hello-1/modules.order := {   echo /home/y000da/develop/kernel/hello-1/hello-1.ko;   echo /home/y000da/develop/kernel/hello-1/hello-2.ko;   echo /home/y000da/develop/kernel/hello-1/hello-3.ko;   echo /home/y000da/develop/kernel/hello-1/hello-4.ko; :; } > /home/y000da/develop/kernel/hello-1/modules.order
